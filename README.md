@@ -20,7 +20,7 @@ Detailed instructions on how to perform the aforementioned procedures, make infe
 
 REQUIREMENTS ——————————————
 
-The included R programs require R 4.1.0 (R Core Team, 2021) and the packages listed in MV_VCSTM_tutorial.R, as well as pre-installed WinBUGS software. In order to properly call WinBUGS from R, the computer system should be Windows.
+The included R programs require R 4.2.1 (R Core Team, 2022) and the packages listed in MV_VCSTM_tutorial.R, as well as pre-installed WinBUGS software. In order to properly call WinBUGS from R, the computer system should be Windows.
 
 INSTALLATION ——————————————
 
